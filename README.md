@@ -1,10 +1,4 @@
 # Selenium-Automation-on-ZigWheels
-🚗 ZigWheels Automation Testing Framework
-https://img.shields.io/badge/Language-Java-blue
-https://img.shields.io/badge/Automation-Selenium-green
-https://img.shields.io/badge/Build-Maven-orange
-https://img.shields.io/badge/TestNG-red
-https://img.shields.io/badge/License-MIT-lightgrey
 
 📌 Project Overview
 ZigWheelsAutomation is a Selenium-based automation testing framework built to validate and automate key functionalities of the ZigWheels web application.
@@ -67,19 +61,7 @@ ZigWheelsAutomation
 🔐 Perform negative login validation using Google Sign-In
 
 
-🧪 Testing Types Performed
 
-Functional Testing
-UI Testing
-Regression Testing
-Data Validation Testing
-Negative Testing
-Smoke Testing
-Automation Testing
-Manual Testing
-
-
-▶️ How to Run the Tests
 ✅ Prerequisites
 Make sure the following are installed:
 
