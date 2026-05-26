@@ -1,0 +1,35 @@
+<!--<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">-->
+
+<!--<suite name="ZigWheels Automation Suite"-->
+<!--       verbose="1"-->
+<!--       parallel="tests"-->
+<!--       thread-count="3">-->
+<!--    <test name="Upcoming Bikes Test">-->
+<!--        <classes>-->
+<!--            <class name="tests.UpcomingBikesTest"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="Used Cars Test">-->
+<!--        <classes>-->
+<!--            <class name="tests.UsedCarsTest"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="Login Test">-->
+<!--        <classes>-->
+<!--            <class name="tests.LoginTest"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+<!--</suite>-->
+
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ZigWheels Automation Suite" verbose="1">
+    <test name="ZigWheels Regression Tests">
+        <classes>
+            <class name="tests.UpcomingBikesTest"/>
+            <class name="tests.UsedCarsTest"/>
+            <class name="tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>
